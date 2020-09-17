@@ -1,5 +1,3 @@
-#Bismillah
-#Assalamu-Alaikum 
 
 [+] Termux-Lazyscript :-
  
@@ -10,10 +8,9 @@
 
 [+] Author :-
 
-   Name : Mujeeb
-   Youtube : www.youtube.com/TechnicalMujeeb
-   Github : https://github.com/TechnicalMujeeb/Termux-Lazyscript.git
-   whatsapp : Termux cyber   
+   Name : Ashish
+   Youtube : www.youtube.com/Half-bloodhacker
+   Github : https://github.com/halfbloodhacker/Termux-Lazyscript.git
 
 [+] Installation :-
   
